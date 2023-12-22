@@ -5,7 +5,7 @@ it is made for Advanced Logic Design Course for first-year computer engineering 
 
 ---
 
-## Our team
+## Contributors
 
 - [Abdelruhman Mostafa](https://github.com/Abdulrahman-Mostafa10)
 - [Abdelruhman Sami](https://github.com/AbdelruhmanSamy)
